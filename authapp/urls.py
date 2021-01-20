@@ -1,5 +1,5 @@
 from django.urls import re_path
-import WebChat.apps.authapp.views as authapp
+import authapp.views as authapp
 
 app_name = 'authapp'
 
